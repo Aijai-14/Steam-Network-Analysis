@@ -1,0 +1,70 @@
+{
+  "month": "2025-10",
+  "degree_distribution": {
+    "power_law_alpha": 1.0684844957763409,
+    "r_squared": 0.8619889149754524,
+    "is_power_law": false,
+    "mean_degree": 4.535714285714286,
+    "median_degree": 3.0,
+    "max_degree": 17.0,
+    "degree_variance": 16.141581632653065,
+    "interpretation": "Alpha=1.07, R\u00b2=0.862. Does not follow power-law."
+  },
+  "community_homophily": {
+    "within_comm_similarity": 0.36713161659513593,
+    "between_comm_similarity": 0.277989417989418,
+    "homophily_ratio": 1.3206675968115853,
+    "nmi": 0.37758380919128287,
+    "interpretation": "Homophily ratio of 1.32 indicates moderate topical clustering."
+  },
+  "temporal_stability": {
+    "autocorrelations": {
+      "n": 0.5405990903776261,
+      "m": 0.45428274667960716,
+      "avg_w": 0.32719184355437486,
+      "avg_deg": 0.5137799427323835,
+      "cc": 0.18015229956742732
+    },
+    "trends": {
+      "n": {
+        "slope": 2.5879120879120876,
+        "r_squared": 0.31096996848821956,
+        "p_value": 0.047683915048349124
+      },
+      "m": {
+        "slope": 6.895604395604396,
+        "r_squared": 0.4247081290272478,
+        "p_value": 0.015805512681744356
+      },
+      "avg_w": {
+        "slope": -0.0012419636176865668,
+        "r_squared": 0.25693881984622813,
+        "p_value": 0.07707966980862344
+      },
+      "avg_deg": {
+        "slope": 0.2094074431573399,
+        "r_squared": 0.5156772560353402,
+        "p_value": 0.005700046751760181
+      },
+      "cc": {
+        "slope": 0.002018709365059016,
+        "r_squared": 0.28714364968769174,
+        "p_value": 0.05909004299724799
+      }
+    },
+    "variability": {
+      "n": 0.5502383327869708,
+      "m": 0.975760267493621,
+      "avg_w": 0.38282641410088497,
+      "avg_deg": 0.5549305701770597,
+      "cc": 1.0492328230835672
+    },
+    "stationarity": {
+      "n": true,
+      "m": true,
+      "avg_w": true,
+      "avg_deg": true,
+      "cc": true
+    }
+  }
+}

@@ -1,0 +1,4 @@
+strategy,mean_size,std_size,mean_depth,propagation_rate,sims,model,base_p,min_p,max_p,alpha,weight_scale,weight_shift,max_steps,lt_threshold,prob_map,edge_weight_key,metadata,month
+ic_aggressive,21.826666666666668,3.473285713345856,3.006666666666667,1.0,150,ic,0.18,0.01,0.9,4.0,14.0,0.5,8,0.35,sigmoid,weight,{},2025-09-30
+ic_balanced,17.846666666666668,3.29477248487196,2.3333333333333335,0.9866666666666667,150,ic,0.12,0.01,0.75,4.0,9.0,0.5,8,0.35,sigmoid,weight,{},2025-09-30
+lt_responsive,41.32666666666667,2.547525886654882,4.84,1.0,150,lt,0.1,0.01,0.85,4.0,10.0,0.5,10,0.3,sigmoid,weight,{},2025-09-30

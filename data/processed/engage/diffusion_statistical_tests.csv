@@ -1,0 +1,2 @@
+mw_statistic,mw_pvalue,ks_statistic,ks_pvalue,cohens_d,ic_mean,ic_std,null_mean,null_std,observed_mean,observed_std,observed_positive_mean
+0.0,4.762831625271785e-39,1.0,2.2087606931995054e-59,-11.680877933144497,22.0,0.0,46.64,2.9831852003175965,2.7557532985578397,47.90959845318333,59.15769712140175

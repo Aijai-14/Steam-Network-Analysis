@@ -1,0 +1,77 @@
+app_id,title,release_date,base_price,current_price,discount_pct,genres,release_year,last_discount_pct,last_discount_ts
+620,Portal 2,"18 Apr, 2011",12.99,12.99,0,Action|Adventure,2011.0,0.0,2025-10-06 17:18:05+00:00
+8930,Sid Meier's Civilization® V,"21 Sep, 2010",32.99,10.88,67,Strategy,2010.0,67.02,2025-11-03 18:18:37+00:00
+105600,Terraria,"16 May, 2011",12.99,12.99,0,Action|Adventure|Indie|RPG,2011.0,0.0,2025-10-06 17:18:30+00:00
+210970,The Witness,"26 Jan, 2016",43.99,8.79,80,Adventure|Indie,2016.0,80.02,2025-11-06 18:15:50+00:00
+227300,Euro Truck Simulator 2,"12 Oct, 2012",25.99,25.99,0,Indie|Simulation,2012.0,0.0,2025-10-13 17:17:07+00:00
+236850,Europa Universalis IV,"13 Aug, 2013",767.0,767.0,0,Simulation|Strategy,2013.0,0.0,2025-10-06 17:18:49+00:00
+242760,The Forest,"30 Apr, 2018",10.49,10.49,0,Action|Adventure|Indie|Simulation,2018.0,0.0,2025-11-03 18:27:55+00:00
+255710,Cities: Skylines,"10 Mar, 2015",39.99,39.99,0,Simulation|Strategy,2015.0,0.0,2025-10-06 17:18:58+00:00
+257510,The Talos Principle,"11 Dec, 2014",38.99,5.84,85,Action|Adventure|Indie,2014.0,85.03,2025-10-27 17:21:18+00:00
+264710,Subnautica,"23 Jan, 2018",39.99,39.99,0,Adventure|Indie,2018.0,0.0,2025-11-03 18:19:10+00:00
+268910,Cuphead,"29 Sep, 2017",19.99,19.99,0,Action|Indie,2017.0,0.0,2025-10-06 17:19:04+00:00
+270880,American Truck Simulator,"2 Feb, 2016",25.99,25.99,0,Indie|Simulation,2016.0,0.0,2025-10-13 17:17:08+00:00
+3240220,Grand Theft Auto V Enhanced,"4 Mar, 2025",44.99,44.99,0,Action|Adventure|Racing,2025.0,0.0,2025-10-20 17:23:07+00:00
+275850,No Man's Sky,"12 Aug, 2016",77.99,77.99,0,Action|Adventure,2016.0,0.0,2025-11-03 17:16:10+00:00
+289070,Sid Meier’s Civilization® VI,"20 Oct, 2016",79.99,7.99,90,Strategy,2016.0,90.02,2025-11-03 18:18:06+00:00
+292030,The Witcher 3: Wild Hunt,"18 May, 2015",29.99,29.99,0,RPG,2015.0,0.0,2025-10-06 17:19:15+00:00
+294100,RimWorld,"17 Oct, 2018",39.99,39.99,0,Indie|Simulation|Strategy,2018.0,0.0,2025-10-24 17:15:26+00:00
+346110,ARK: Survival Evolved,"27 Aug, 2017",19.49,19.49,0,Action|Adventure|Indie|Massively Multiplayer|RPG,2017.0,0.0,2025-10-06 17:23:37+00:00
+367520,Hollow Knight,"24 Feb, 2017",19.49,19.49,0,Action|Adventure|Indie,2017.0,0.0,2025-11-03 18:19:12+00:00
+374320,DARK SOULS™ III,"11 Apr, 2016",39.99,39.99,0,Action,2016.0,0.0,2025-10-06 17:23:49+00:00
+394360,Hearts of Iron IV,"6 Jun, 2016",66.99,66.99,0,Simulation|Strategy,2016.0,0.0,2025-10-06 17:24:00+00:00
+413150,Stardew Valley,"26 Feb, 2016",13.99,13.99,0,Indie|RPG|Simulation,2016.0,0.0,2025-10-06 17:24:08+00:00
+427520,Factorio,"14 Aug, 2020",45.0,45.0,0,Casual|Indie|Simulation|Strategy,2020.0,0.0,2023-01-26 22:03:15+00:00
+457140,Oxygen Not Included,"30 Jul, 2019",27.99,27.99,0,Indie|Simulation,2019.0,0.0,2025-10-06 17:24:28+00:00
+493340,Planet Coaster,"17 Nov, 2016",582095.0,582095.0,0,Action|Adventure|Casual|Simulation|Strategy,2016.0,0.0,2025-10-21 17:15:20+00:00
+504230,Celeste,"25 Jan, 2018",25.99,25.99,0,Action|Adventure|Indie,2018.0,0.0,2025-10-22 17:16:36+00:00
+526870,Satisfactory,"10 Sep, 2024",51.99,51.99,0,Adventure|Indie|Simulation|Strategy,2024.0,0.0,2025-10-27 17:33:23+00:00
+535930,Two Point Hospital,"29 Aug, 2018",41.99,41.99,0,Indie|Simulation,2018.0,0.0,2025-10-06 17:29:38+00:00
+548430,Deep Rock Galactic,"13 May, 2020",34.99,34.99,0,Action,2020.0,0.0,2025-11-05 17:15:17+00:00
+553850,HELLDIVERS™ 2,"8 Feb, 2024",49.99,49.99,0,Action,2024.0,0.0,2025-10-06 17:29:45+00:00
+588650,Dead Cells,"6 Aug, 2018",29.99,14.99,50,Action|Adventure|Indie,2018.0,50.02,2025-10-24 17:15:27+00:00
+601150,Devil May Cry 5,"7 Mar, 2019",49.99,49.99,0,Action,2019.0,0.0,2025-10-07 17:19:20+00:00
+632470,Disco Elysium - The Final Cut,"15 Oct, 2019",45.49,45.49,0,RPG,2019.0,0.0,2025-10-06 17:30:26+00:00
+703080,Planet Zoo,"5 Nov, 2019",51.49,51.49,0,Casual|Simulation|Strategy,2019.0,0.0,2025-10-06 17:30:36+00:00
+739630,Phasmophobia,"Sep 18, 2020",19.99,19.99,0,Action|Indie|Early Access,,0.0,2025-11-03 18:19:20+00:00
+753640,Outer Wilds,"18 Jun, 2020",52.95,52.95,0,Action|Adventure,2020.0,0.0,2025-10-20 17:22:07+00:00
+782330,DOOM Eternal,"19 Mar, 2020",53.49,53.49,0,Action,2020.0,0.0,2025-10-06 17:35:59+00:00
+814380,Sekiro™: Shadows Die Twice - GOTY Edition,"21 Mar, 2019",59.99,59.99,0,Action|Adventure,2019.0,0.0,2025-10-06 17:36:09+00:00
+835960,The Talos Principle 2,"2 Nov, 2023",38.99,19.49,50,Action|Adventure,2023.0,50.02,2025-10-27 17:22:27+00:00
+848450,Subnautica: Below Zero,"13 May, 2021",39.99,39.99,0,Adventure|Indie,2021.0,0.0,2025-11-03 18:26:51+00:00
+883710,Resident Evil 2,"24 Jan, 2019",59.99,14.99,75,Action,2019.0,75.02,2025-10-29 17:17:21+00:00
+892970,Valheim,"2 Feb, 2021",26.99,26.99,0,Action|Adventure|Indie|RPG|Early Access,2021.0,0.0,2025-11-04 18:15:19+00:00
+949230,Cities: Skylines II,"24 Oct, 2023",49.99,39.99,20,Simulation,2023.0,20.0,2025-10-29 17:17:21+00:00
+962130,Grounded,"27 Sep, 2022",49.99,49.99,0,Action|Adventure,2022.0,0.0,2025-10-06 17:41:52+00:00
+1086940,Baldur's Gate 3,"3 Aug, 2023",59.99,59.99,0,Adventure|RPG|Strategy,2023.0,0.0,2025-10-06 17:41:32+00:00
+1091500,Cyberpunk 2077,"9 Dec, 2020",59.99,59.99,0,RPG,2020.0,0.0,2025-10-06 17:41:33+00:00
+1145360,Hades,"17 Sep, 2020",32.5,32.5,0,Action|Indie|RPG,2020.0,0.0,2025-11-03 18:19:28+00:00
+2561580,Horizon Zero Dawn™ Remastered,"31 Oct, 2024",49.99,49.99,0,Action|Adventure|RPG,2024.0,0.0,2025-10-06 18:26:10+00:00
+1158310,Crusader Kings III,"1 Sep, 2020",99.99,59.99,40,RPG|Simulation|Strategy,2020.0,0.0,2025-11-06 17:15:32+00:00
+1172620,Sea of Thieves: 2025 Edition,"3 Jun, 2020",49.99,49.99,0,Action|Adventure,2020.0,0.0,2025-10-06 17:47:37+00:00
+1174180,Red Dead Redemption 2,"5 Dec, 2019",5699.0,1139.8,80,Action|Adventure,2019.0,0.0,2025-10-20 17:27:53+00:00
+1196590,Resident Evil Village,"6 May, 2021",169.0,42.25,75,Action,2021.0,75.02,2025-10-29 17:17:26+00:00
+1245620,ELDEN RING,"Feb 24, 2022",59.99,59.99,0,Action|RPG,,0.0,2025-07-10 17:53:08+00:00
+1259420,Days Gone,"17 May, 2021",49.99,49.99,0,Action|Adventure,2021.0,0.0,2025-10-06 17:48:05+00:00
+1272080,PAYDAY 3,"21 Sep, 2023",41.49,41.49,0,Action|Adventure|RPG,2023.0,0.0,2025-10-06 17:47:20+00:00
+1282100,REMNANT II®,"25 Jul, 2023",64.99,64.99,0,Action|Adventure|RPG,2023.0,0.0,2025-10-13 17:22:08+00:00
+1326470,Sons Of The Forest,"22 Feb, 2024",38.99,38.99,0,Action|Adventure|Indie|Simulation,2024.0,0.0,2025-11-03 18:19:33+00:00
+1363080,Manor Lords,"26 Apr, 2024",39.99,39.99,0,Simulation|Strategy|Early Access,2024.0,0.0,2025-10-23 17:19:13+00:00
+1551360,Forza Horizon 5,"8 Nov, 2021",79.99,79.99,0,Action|Adventure|Racing|Simulation|Sports,2021.0,0.0,2025-10-06 17:59:42+00:00
+1593500,God of War,"14 Jan, 2022",64.99,64.99,0,Action|Adventure|RPG,2022.0,0.0,2025-10-06 17:59:56+00:00
+1623730,Palworld,"18 Jan, 2024",88.99,88.99,0,Action|Adventure|Indie|RPG|Early Access,2024.0,0.0,2025-11-04 17:18:50+00:00
+1649080,Two Point Campus,"9 Aug, 2022",41.99,41.99,0,Casual|Indie|Simulation|Strategy,2022.0,0.0,2025-10-06 17:59:22+00:00
+1716740,Starfield,"5 Sep, 2023",89.99,89.99,0,RPG,2023.0,0.0,2025-10-06 18:05:52+00:00
+1794680,Vampire Survivors,"20 Oct, 2022",5.99,5.99,0,Action|Casual|Indie|RPG,2022.0,0.0,2025-11-04 18:18:55+00:00
+1850570,DEATH STRANDING DIRECTOR'S CUT,"30 Mar, 2022",54.99,54.99,0,Action|Adventure,2022.0,0.0,2025-10-06 18:11:41+00:00
+1888160,ARMORED CORE™ VI FIRES OF RUBICON™,"24 Aug, 2023",79.99,79.99,0,Action,2023.0,0.0,2025-10-06 18:11:50+00:00
+1903340,Clair Obscur: Expedition 33,"24 Apr, 2025",199.0,199.0,0,Action|RPG,2025.0,0.0,2025-11-06 17:18:35+00:00
+2050650,Resident Evil 4,"23 Mar, 2023",169.0,84.5,50,Action|Adventure,2023.0,50.01,2025-10-29 17:17:31+00:00
+2054970,Dragon's Dogma 2,"21 Mar, 2024",89.99,89.99,0,Action|RPG,2024.0,0.0,2025-10-07 17:04:28+00:00
+2072450,Like a Dragon: Infinite Wealth,"25 Jan, 2024",93.49,93.49,0,Action|Adventure|RPG,2024.0,0.0,2025-10-23 17:19:19+00:00
+2669320,EA SPORTS FC™ 25,"26 Sep, 2024",69.99,69.99,0,Simulation|Sports,2024.0,0.0,2025-07-10 18:14:21+00:00
+2358720,Black Myth: Wukong,"19 Aug, 2024",79.99,79.99,0,Action|Adventure|RPG,2024.0,0.0,2025-07-10 18:10:58+00:00
+2420110,Horizon Forbidden West™ Complete Edition,"21 Mar, 2024",79.99,79.99,0,Action|RPG,2024.0,0.0,2025-10-06 18:22:59+00:00
+2488620,F1® 24,"31 May, 2024",89.99,89.99,0,Racing|Sports,2024.0,0.0,2025-03-25 17:18:22+00:00
+2807960,Battlefield™ 6,"10 Oct, 2025",89.99,89.99,0,Action,2025.0,0.0,2025-07-31 19:18:03+00:00
+2933620,Call of Duty®: Black Ops 6,"1 Nov, 2024",89.99,89.99,0,Action,2024.0,0.0,2025-10-16 17:17:04+00:00

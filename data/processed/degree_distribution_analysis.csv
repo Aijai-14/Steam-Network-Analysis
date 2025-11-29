@@ -1,0 +1,2 @@
+power_law_alpha,r_squared,is_power_law,mean_degree,median_degree,max_degree,degree_variance,interpretation
+1.0684844957763409,0.8619889149754524,False,4.535714285714286,3.0,17.0,16.141581632653065,"Alpha=1.07, R²=0.862. Does not follow power-law."
